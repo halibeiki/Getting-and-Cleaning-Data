@@ -26,9 +26,10 @@ Below, we explain how the code in __run_analysis.R__ will lead from _Test and Tr
 * STEP 4: Appropriately labeling the data set with descriptive variable names
   * We already have done it in the first two bullets of step 2. we can alos change the name of variables slightly and make it different from what actually is present in the "features.txt" file. 
 * STEP 5- Creating a new Tidy Data Set: 
-* 
+  * First, using aggregate() function we calculate the mean of variables for different groups based on subject and activity
+  * Second, we save the new tidy data which contains all tha features with names in a separate file using write.table() function.
 
-The output of step 4 is the whole data cleaned and clarified for further analysis. 
-The output of step 5 is even more precise and has some pre-analysis inside as it captures the mean of each variable for each pair of (subject, activity). 
+The output of step 4 is the cleaned and clarified data set for further analysis which contains all the data from Test and Train. 
+The output of step 5 is even more precise and has some pre-analysis inside as it captures the mean of each variable for each pair of (subject, activity); for instance we have the average of all the values that are measured for a specific activity of a specific subject. 
 
 
