@@ -6,5 +6,5 @@ __Data sets__: The whole data sets come from expriments of Human Activity Recogn
 - Merged: this data set is created by merging two raw sets of Test and Train with a total number of observations of 10299. Some other tasks have been done to increase readability of this data set as explained later in this Code Book. 
 - Tidy: this data set includes the average (mean) of all 561 variables for each instance of subject-activity (180 total number of observations).
 
-__Steps in preparing the data sets: __
+__Steps in preparing the data sets__
 
