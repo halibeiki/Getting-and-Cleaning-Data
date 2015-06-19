@@ -1,6 +1,6 @@
 # Getting-and-Cleaning-Data
 
-In this Repo, I have put an R script called run_analysis.R that merges two data sets and prepare them for the analysis in the following order:  
+In this Repo, I have put an R script called __run_analysis.R__ that merges two data sets and prepare them for the analysis in the following order:  
 
 1- It merges a so-called training set and a test set to create one data set,
 2- Then extracts only the measurements on the mean and standard deviation for each measurement (only those variables that are mean or stdev of other variables), 
