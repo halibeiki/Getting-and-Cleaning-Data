@@ -1,4 +1,4 @@
-# Getting-and-Cleaning-Data
+# Course Project: Getting and Cleaning Data
 
 In this Repo, I have put an R script called __run_analysis.R__ that merges two data sets and prepare them for the analysis in the following order:  
 
