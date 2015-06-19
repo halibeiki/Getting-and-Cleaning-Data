@@ -8,4 +8,4 @@ In this Repo, I have put an R script called __run_analysis.R__ that merges two d
 4- Next, it labels the data set with descriptive variable names (which was already done in step 2 as well), 
 5- And finally, from the data set in step 4, it creates a second, independent tidy data set with the average of each variable for each instance of activity-subject (in this specific problem we have 180 instances= 30 subjects X 6 activities).
 
-__bold__ I have 
+There are some comments in the code file but I also added a codeBook for more clarification on data sets and each step in the code file.
