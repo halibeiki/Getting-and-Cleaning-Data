@@ -30,6 +30,6 @@ Below, we explain how the code in __run_analysis.R__ will lead from _Test and Tr
   * Second, we save the new tidy data which contains all tha features with names in a separate file using write.table() function.
 
 The output of step 4 is the cleaned and clarified data set for further analysis which contains all the data from Test and Train. 
-The output of step 5 is even more precise and has some pre-analysis inside as it captures the mean of each variable for each pair of (subject, activity); for instance we have the average of all the values that are measured for a specific activity of a specific subject. 
+The output of step 5 is even more precise and has some pre-analysis inside as it captures the mean of each variable for each pair of (subject, activity); i.e. we have the average of all the values that are measured for a specific activity of a specific subject. 
 
 
